@@ -134,6 +134,8 @@ Visualisasi evaluasi model prediksi yang menunjukkan akurasi dan status kemaceta
 
 ![Evaluasi Kemacetan](images/gambar_2.png)
 
+---
+
 ### 🗺️ Tampilan Peta Rute
 Peta interaktif yang menampilkan jalur tercepat (garis merah).
 
