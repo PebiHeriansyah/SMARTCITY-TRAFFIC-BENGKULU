@@ -118,6 +118,41 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🖼️ Contoh Visualisasi Aplikasi
+
+Berikut adalah beberapa tangkapan layar dari antarmuka aplikasi SMARTCITY-TRAFFIC-BENGKULU:
+
+### 🔄 Prediksi Kemacetan & Rekomendasi Rute
+Visualisasi untuk memilih rute tercepat dan rute alternatif berdasarkan prediksi tingkat kemacetan oleh model AI.
+
+![Rute](images/gambar_1.png)
+
+---
+
+### 📊 Evaluasi Tingkat Kemacetan
+Visualisasi evaluasi model prediksi yang menunjukkan akurasi dan status kemacetan.
+
+![Evaluasi Kemacetan](images/gambar_2.png)
+
+### 🗺️ Tampilan Peta Rute
+Peta interaktif yang menampilkan jalur tercepat (garis merah).
+
+![Peta Rute Tercepat](images/gambar_3.png)
+
+---
+
+### 🗺️ Tampilan Peta Rute
+Peta interaktif yang menampilkan rute alternatif bebas macet (garis biru).
+
+![Peta Rute Tercepat](images/gambar_4.png)
+
+### 🌤️ Informasi Cuaca Real-Time
+Cuaca di titik asal dan tujuan yang digunakan sebagai fitur dalam model prediksi.
+
+![Cuaca Titik Asal dan Tujuan](images/gambar_5.png)
+
+---
+
 ## 🔮 Rencana Pengembangan
 
 ### ✅ Fitur yang Akan Ditambahkan
