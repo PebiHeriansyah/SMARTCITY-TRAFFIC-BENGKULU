@@ -1,0 +1,20 @@
+{
+    "timestamp": "2025-06-08T13:53:46.845069",
+    "model_type": "XGBoost Regressor",
+    "features": [
+        "distance_km",
+        "num_segments",
+        "hour",
+        "weekday",
+        "temperature",
+        "rain"
+    ],
+    "target": "traffic_level",
+    "params": {
+        "learning_rate": 0.1,
+        "max_depth": 3,
+        "n_estimators": 200
+    },
+    "rmse": 5.128362343530153,
+    "r2_score": 0.9700729250907898
+}

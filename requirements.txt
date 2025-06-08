@@ -1,0 +1,9 @@
+streamlit==1.35.0
+folium==0.16.0
+streamlit-folium==0.18.0
+openrouteservice==2.3.8
+requests==2.31.0
+scikit-learn==1.4.2
+pandas==2.2.2
+joblib==1.4.2
+xgboost==2.0.3
