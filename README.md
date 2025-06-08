@@ -87,7 +87,7 @@ SMARTCITY-TRAFFIC/
 │
 ├── app.py                         # Aplikasi utama Streamlit
 ├── requirements.txt               # Daftar dependensi
-├── README.md                     # Dokumentasi proyek
+├── README.md                      # Dokumentasi proyek
 │
 ├── model/
 │   ├── traffic_data.csv           # Dataset lalu lintas
