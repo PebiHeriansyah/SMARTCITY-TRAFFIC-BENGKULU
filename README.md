@@ -55,9 +55,9 @@ Model AI yang digunakan:
 
 ```mermaid
 graph TD;
-  A[User Interface (Streamlit)] --> B[Prediksi Kemacetan (XGBoost)];
-  A --> C[Peta Rute (Folium + OpenRouteService)];
-  B --> D[Tampilan Prediksi dan Saran Rute];
+  A["User Interface - Streamlit"] --> B["Prediksi Kemacetan - XGBoost"];
+  A --> C["Peta Rute - Folium + OpenRouteService"];
+  B --> D["Tampilan Prediksi dan Saran Rute"];
   C --> D;
 
 ### Alur Kerja Sistem
