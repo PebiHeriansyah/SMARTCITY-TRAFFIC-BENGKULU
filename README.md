@@ -1,19 +1,16 @@
-Tentu! Berikut versi README.md yang sudah rapih, siap langsung kamu salin dan pakai di GitHub:
-
-````markdown
 # SMARTCITY-TRAFFIC 🚦
 
 Sistem prediksi kemacetan lalu lintas dan rekomendasi rute alternatif berbasis AI untuk mendukung program Smart City di Kota Bengkulu.
 
 ## 📌 Deskripsi Proyek
 
-SMARTCITY-TRAFFIC adalah aplikasi berbasis web yang dikembangkan menggunakan Streamlit dan Folium untuk memvisualisasikan data lalu lintas serta memberikan prediksi tingkat kemacetan secara real-time. Sistem ini juga dapat memberikan rekomendasi rute alternatif menggunakan layanan OpenRouteService.
+SMARTCITY-TRAFFIC adalah aplikasi berbasis web yang dikembangkan dengan Streamlit dan Folium untuk memvisualisasikan data lalu lintas serta memberikan prediksi tingkat kemacetan secara real-time. Sistem ini juga dapat memberikan rekomendasi rute alternatif menggunakan layanan OpenRouteService.
 
 ## 🎯 Tujuan Proyek
 
-- Memprediksi tingkat kemacetan lalu lintas berdasarkan parameter lingkungan dan data aktual.
-- Memberikan peringatan dini terhadap potensi kemacetan.
-- Menyediakan rekomendasi rute alternatif bagi pengguna jalan.
+* Memprediksi tingkat kemacetan lalu lintas berdasarkan parameter lingkungan dan lalu lintas aktual.
+* Memberikan peringatan dini terhadap potensi kemacetan.
+* Menyediakan rekomendasi rute alternatif bagi pengguna jalan.
 
 ## 🔍 Studi Kasus
 
